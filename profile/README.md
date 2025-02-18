@@ -57,7 +57,7 @@ Get in touch with our customer support:
 
 ## Security
 
-For security issues, kindly email us at security@semail.com instead of posting a public issue on GitHub.
+For security issues, kindly email us at security@email.com instead of posting a public issue on GitHub.
 
 ## License
 
