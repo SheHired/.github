@@ -6,7 +6,7 @@
 
 ## Overview
 
-SheHired is a hiring platform dedicated to empowering women by providing career coaching, resume services, and industry insights to support their job search and professional growth.
+SheHired empowers women by providing career coaching, resume services, and industry insights to support their job search and professional growth.
 
 ## Our Services
 
